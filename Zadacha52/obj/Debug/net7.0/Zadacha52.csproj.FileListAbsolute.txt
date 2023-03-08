@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Учеба GB\DZ для sem 16.02\Zadacha52\obj\Debug\net7.0\Zadacha52.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба GB\DZ для sem 16.02\Zadacha52\obj\Debug\net7.0\Zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба GB\DZ для sem 16.02\Zadacha52\obj\Debug\net7.0\Zadacha52.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба GB\DZ для sem 16.02\Zadacha52\obj\Debug\net7.0\Zadacha52.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба GB\DZ для sem 16.02\Zadacha52\obj\Debug\net7.0\Zadacha52.csproj.CoreCompileInputs.cache
